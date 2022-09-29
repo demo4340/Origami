@@ -1,0 +1,255 @@
+
+body {
+
+    background-image: url(https://indianapublicmedia.org/images/news-images/1280px-mustard_plant.jpg);
+
+    padding-left: 20px;
+
+    padding-right: 20px;
+
+    background-size: 200%;
+
+    margin-bottom : 0px;
+
+    margin-top: 0px;
+
+}
+
+.navigation {
+
+	background-color: #2C2E43;
+    overflow: hidden;
+
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+}   
+
+.navigation a{
+
+    padding: 15px;
+
+	float: right;
+
+	display: flex;
+    flex-wrap: wrap;
+    flex: auto;
+
+	color: #F0FFFF;
+	text-align: right;
+
+    text-decoration: none;
+	
+	font-family:'LittleLordFontleroyNF';
+
+}
+
+.navigation a:hover{
+
+    background-color: #FFD528;
+
+}
+
+.heading {
+
+    background-color: #FFD523;
+
+    padding : 50px;
+
+    color : whitesmoke;
+
+    text-align: center;
+
+    font-size: xx-large;
+
+    background-image: url(https://cdn.suwalls.com/wallpapers/nature/yellow-rapeseed-field-24532-2880x1800.jpg);
+
+    background-position-x: center;
+
+    background-position-y: 400px;
+
+    background-size: 100%;
+
+}
+
+.introduction {
+
+    background-color: #B2B1B9;
+
+    padding : 10px;
+
+    text-align: center;
+
+    font-family: 'LittleLordFontleroyNF';
+
+    color : whitesmoke;
+
+}
+
+.design{
+
+    padding : 20px;
+
+    width: 250px;
+
+    height: 300px;
+
+    overflow: hidden;
+
+    background-color: #B2B1B9;
+
+    border: solid;
+
+    border-width: 20px;
+
+    border-color: #FFD523;
+    
+    text-align: center;
+
+    border-radius: 20px;
+
+    
+}
+
+.design:hover{
+
+    zoom : 110%;
+
+}
+
+.design img:hover{
+
+    opacity: 50%;
+
+    background-color: #FFD523;
+
+    border-radius: 20px;
+
+}
+
+.row1 {
+
+    background-color: #ECEBF3;
+    
+    padding : 50px;
+
+    display: flex;
+    
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+
+}
+
+.row2 {
+
+    background-color: #ECEBF3;
+    
+    padding : 50px;
+
+    display: flex;
+    
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+
+}
+
+.images {
+
+    border : solid;
+
+    border-radius: 40px;
+
+    padding : 5px;
+
+    background-color: white;
+    
+    overflow: hidden;
+
+    justify-content: space-evenly;
+
+    border-color: #B2B1B9;
+
+    margin-right: 10px;
+
+    margin-left: 10px;
+
+}
+
+.footer {
+
+    background-color: #2C2E43;
+
+    padding: 20px;
+
+    display: flex;
+
+    flex-wrap: nowrap;
+
+    justify-content: end;
+
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+
+.followUsDesign{
+
+    padding : 20px;
+
+    width: 400px;
+
+    height: 500px;
+
+    overflow: hidden;
+
+    background-color: #B2B1B9;
+
+    border: solid;
+
+    border-width: 20px;
+
+    border-color: #FFD523;
+    
+    text-align: center;
+
+    border-radius: 20px;
+
+    
+}
+
+.followUsDesign2{
+
+    padding : 20px;
+
+    width: 550px;
+
+    height: 500px;
+
+    overflow: hidden;
+
+    text-align: center;
+
+    border-radius: 20px;
+
+    font-size: 20px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+}
+
+.followUsrow1 {
+
+    background-color: #ECEBF3;
+    
+    padding : 50px;
+
+    display: flex;
+    
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+
+}
